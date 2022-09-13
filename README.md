@@ -20,7 +20,7 @@ Builds the entire ETF portfolio and then evaluates its performance. To do so, bu
 
 ## STEP FIVE - Deploy the Notebook as a Web Application
 
-Use the Voilà library to deploy your notebook as a web application. [ETF Analyzer WEB][M7_ETFAnalyzer/Resources/etf_analyzer.html]
+Use the Voilà library to deploy your notebook as a web application. [ETF Analyzer WEB]["M7_ETFAnalyzer/Resources/etf_analyzer.html"]
 
 Screenshots included:
 
